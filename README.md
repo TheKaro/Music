@@ -1,7 +1,5 @@
 # Music
 
-This is for my music 
-
 # Instructions
 
 Download and install to load my music app. 
